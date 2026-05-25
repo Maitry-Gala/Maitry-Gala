@@ -33,20 +33,3 @@
 ```
 
 ---
-
-```
-[maitry@github]:~$ cat stats.txt
-```
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maitryg1004&show_icons=true&theme=dark&hide_border=true&hide_title=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maitryg1004&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Gmail](https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:maitryg1004@gmail.com)
-[![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/maitryg1004)

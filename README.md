@@ -1,4 +1,4 @@
-### ~$ whoami
+### ~$ aboutme
 
 ```
 [maitry@github]:~$ cat about.txt
